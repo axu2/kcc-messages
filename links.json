@@ -1,9 +1,16 @@
 {
-  "entries": [
+  "humbleBundles": [
     {
       "name": "Dynamite Red Sonja Comic Bundle",
       "link": "https://www.humblebundle.com/books/dynamites-red-sonja-20-years-comics-books",
       "expiration": "2025-09-04T18:00:00.000Z"
     }
+  ]
+  "fanaticalBundles": [
+    {
+      "name": "Attack on Titan Mega Manga Bundle",
+      "link": "https://www.fanatical.com/en/bundle/attack-on-titan-mega-manga-bundle",
+      "expiration": "2025-09-15"
+    }  
   ]
 }
