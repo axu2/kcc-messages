@@ -1,4 +1,9 @@
 {
-  "IGN/San Diego Comic Con Massive Comic Bundle": "https://www.humblebundle.com/books/ign-sdcc-massive-comics-bundle-books",
-  "James Tynion IV Frightening and Fantastic Comic Bundle": "https://www.humblebundle.com/books/frightening-and-fantastic-worlds-james-tynion-iv-books"
+  "entries": [
+    {
+      "name": "IGN/San Diego Comic Con Massive Comic Bundle",
+      "link": "https://www.humblebundle.com/books/ign-sdcc-massive-comics-bundle-books",
+      "expire": "2025-08-14T00:00:00.014Z",
+    },   
+  ]
 }
