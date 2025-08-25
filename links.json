@@ -25,11 +25,18 @@
   ],
   "testMessages": [
     {
+      "name": "Kodansha free 1000 pages of one shots!",
+      "link": "https://kodansha.us/product/young-magazine-usa/",
+      "expiration": "2024-08-30T18:00:00.000Z"
+    },
+    {
       "name": "You can do it!",
+      "link": "",
       "expiration": "2024-08-15T18:00:00.000Z"
     },
     {
       "name": "You can do itfsdfdsg!",
+      "link": "",
       "expiration": "2024-08-15T18:00:00.000Z"
     }
   ]
