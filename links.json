@@ -3,24 +3,28 @@
     {
       "name": "Test",
       "link": "https://www.humblebundle.com/books/dynamites-red-sonja-20-years-comics-books",
-      "expiration": "2025-08-04T18:00:00.000Z"
+      "expiration": "2025-08-04T18:00:00.000Z",
+      "showDeadline": true
     },
     {
       "name": "Dynamite Red Sonja Comic Bundle",
       "link": "https://www.humblebundle.com/books/dynamites-red-sonja-20-years-comics-books",
-      "expiration": "2025-09-04T18:00:00.000Z"
+      "expiration": "2025-09-04T18:00:00.000Z",
+      "showDeadline": true
     }
   ],
   "fanaticalBundles": [
     {
       "name": "Attack on Titan Mega Manga Bundle",
       "link": "https://www.fanatical.com/en/bundle/attack-on-titan-mega-manga-bundle",
-      "expiration": "2025-09-16T18:00:00.000Z"
+      "expiration": "2025-09-16T18:00:00.000Z",
+      "showDeadline": true
     },
     {
       "name": "Attack on Titan Mega Manga Bundle",
       "link": "https://www.fanatical.com/en/bundle/attack-on-titan-mega-manga-bundle",
-      "expiration": "2024-09-16T18:00:00.000Z"
+      "expiration": "2024-09-16T18:00:00.000Z",
+      "showDeadline": true
     }  
   ],
   "youtube": [
@@ -44,7 +48,8 @@
     {
       "name": "Kodansha free 1000 pages of one shots! Votes determine serialization!",
       "link": "https://kodansha.us/product/young-magazine-usa/",
-      "expiration": "2025-11-10T18:00:00.000Z"
+      "expiration": "2025-11-10T18:00:00.000Z",
+      "showDeadline": true
     },
     {
       "name": "You can do it!",
