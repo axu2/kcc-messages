@@ -27,6 +27,14 @@
       "showDeadline": true
     }  
   ],
+  "kodansha": [
+    {
+      "name": "Kodansha free 1000 pages of one shots! Votes determine serialization!",
+      "link": "https://kodansha.us/product/young-magazine-usa/",
+      "expiration": "2024-11-10T18:00:00.000Z",
+      "showDeadline": true
+    },
+  ],
   "youtube": [
     {
       "name": "KCC 7.5 adds Kindle Scribe 2480 support",
@@ -48,7 +56,7 @@
     {
       "name": "Kodansha free 1000 pages of one shots! Votes determine serialization!",
       "link": "https://kodansha.us/product/young-magazine-usa/",
-      "expiration": "2025-11-10T18:00:00.000Z",
+      "expiration": "2024-11-10T18:00:00.000Z",
       "showDeadline": true
     },
     {
