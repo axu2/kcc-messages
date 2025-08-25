@@ -23,6 +23,23 @@
       "expiration": "2024-09-16T18:00:00.000Z"
     }  
   ],
+  "youtube": [
+    {
+      "name": "KCC 7.5 adds Kindle Scribe 2480 support",
+      "link": "https://youtu.be/iSS9KN97qvo?si=zJvD47YPNDG4WkYP",
+      "expiration": "2025-11-10T18:00:00.000Z"
+    },
+    {
+      "name": "You can do it!",
+      "link": "",
+      "expiration": "2024-08-30T18:00:00.000Z"
+    },
+    {
+      "name": "You can do itfsdfdsg!",
+      "link": "",
+      "expiration": "2024-08-30T18:00:00.000Z"
+    }
+  ],
   "messages": [
     {
       "name": "Kodansha free 1000 pages of one shots! Votes determine serialization!",
