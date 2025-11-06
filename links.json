@@ -15,6 +15,12 @@
   ],
   "humbleComicBundles": [
     {
+      "name": "Image Comics in the 90s: Astro City, SPAWN, and more!",
+      "link": "https://humblebundleinc.sjv.io/bOn69M",
+      "expiration": "2025-11-27T11:00:00.000Z",
+      "showDeadline": true
+    },
+    {
       "name": "Critical Role Comics Collection by Dark Horse",
       "link": "https://humblebundleinc.sjv.io/jeYqq5",
       "expiration": "2025-11-15T11:00:00.000Z",
@@ -29,7 +35,7 @@
     {
       "name": "Roll for Iniative with Kieron Gillen by Image Comics",
       "link": "https://humblebundleinc.sjv.io/K07QQx",
-      "expiration": "2025-11-06T11:00:00.000Z",
+      "expiration": "2025-11-12T11:00:00.000Z",
       "showDeadline": true
     }
   ],
