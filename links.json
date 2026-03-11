@@ -48,7 +48,7 @@
       "showDeadline": false
     },
     {
-      "name": "Use airplane mode and delete any partial update files on device root.",
+      "name": "To avoid updates, use airplane mode and delete any partial update files on device root.",
       "expiration": "2026-11-10T18:00:00.000Z",
       "showDeadline": false
     }
