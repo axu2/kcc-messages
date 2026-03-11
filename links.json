@@ -46,6 +46,11 @@
       "link": "https://www.amazon.com/sendtokindle",
       "expiration": "2026-11-10T18:00:00.000Z",
       "showDeadline": false
+    },
+    {
+      "name": "Use airplane mode and delete any partial update files on device root.",
+      "expiration": "2026-11-10T18:00:00.000Z",
+      "showDeadline": false
     }
   ]
 }
