@@ -35,6 +35,11 @@
       "showDeadline": false
     },
     {
+      "name": "You can also make a new Amazon account and then immediately activate airplane mode.",
+      "expiration": "2026-11-10T18:00:00.000Z",
+      "showDeadline": false
+    },
+    {
       "name": "To avoid updates, use airplane mode and delete any partial update files on device root.",
       "expiration": "2026-11-10T18:00:00.000Z",
       "showDeadline": false
