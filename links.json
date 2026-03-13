@@ -49,6 +49,11 @@
       "link": "https://www.amazon.com/sendtokindle",
       "expiration": "2026-11-10T18:00:00.000Z",
       "showDeadline": false
+    },
+    {
+      "name": "PDF may not work on 11th gen",
+      "expiration": "2026-11-10T18:00:00.000Z",
+      "showDeadline": false
     }
   ]
 }
