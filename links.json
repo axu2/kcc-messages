@@ -51,7 +51,7 @@
       "showDeadline": false
     },
     {
-      "name": "PDF may not work on 11th gen",
+      "name": "PDF may not work on 11th gen, doesn't support RTL or lock screen covers",
       "expiration": "2026-11-10T18:00:00.000Z",
       "showDeadline": false
     }
