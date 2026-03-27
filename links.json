@@ -36,19 +36,19 @@
       "expiration": "2026-11-14T18:00:00.000Z"
     },
     {
-      "name": "WARNING: Kindle update 5.19.2 may add huge margins to MOBI/EPUB - YouTube",
-      "link": "https://youtu.be/UPmuvWb6Wl8?si=Fej3kRUpPdPR6M7c",
+      "name": "Kindle update 5.19.3 fixes death margins - YouTube",
+      "link": "https://youtu.be/dLZs_4Wn1os?si=B8M7zocxWruN3BVh",
       "expiration": "2026-11-10T18:00:00.000Z",
       "showDeadline": false
     },
     {
       "name": "Staying logged out+restart fixes problem, but deletes all data. Discuss on Discord.",
-      "expiration": "2026-11-10T18:00:00.000Z",
+      "expiration": "2025-11-10T18:00:00.000Z",
       "showDeadline": false
     },
     {
       "name": "To avoid updates, use airplane mode and delete any partial update files on device root.",
-      "expiration": "2026-11-10T18:00:00.000Z",
+      "expiration": "2025-11-10T18:00:00.000Z",
       "showDeadline": false
     },
     {
@@ -59,12 +59,12 @@
     {
       "name": "WORKAROUND: Convert to PDF PNG 200 MB and upload to amazon.com/sendtokindle",
       "link": "https://www.amazon.com/sendtokindle",
-      "expiration": "2026-11-10T18:00:00.000Z",
+      "expiration": "2025-11-10T18:00:00.000Z",
       "showDeadline": false
     },
     {
       "name": "PDF may not work on 11th gen, doesn't support RTL or lock screen covers",
-      "expiration": "2026-11-10T18:00:00.000Z",
+      "expiration": "2025-11-10T18:00:00.000Z",
       "showDeadline": false
     }
   ]
