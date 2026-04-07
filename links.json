@@ -50,6 +50,16 @@
       "showDeadline": false
     },
     {
+      "name": "Initial reports indicate manually updating via usb offline avoids problems",
+      "expiration": "2026-11-10T18:00:00.000Z",
+      "showDeadline": false
+    },
+    {
+      "name": "Initial reports say problems will return if you connect to Internet.",
+      "expiration": "2026-11-10T18:00:00.000Z",
+      "showDeadline": false
+    },
+    {
       "name": "WARNING: Kindle update 5.19.2 may add huge margins to MOBI/EPUB - YouTube",
       "link": "https://youtu.be/UPmuvWb6Wl8?si=Fej3kRUpPdPR6M7c",
       "expiration": "2025-11-10T18:00:00.000Z",
