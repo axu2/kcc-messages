@@ -75,13 +75,13 @@
     {
       "name": "Give a software job referral to KCC dev! USA, 2+ YOE, Computer Science B.S. - LinkedIn",
       "link": "https://www.linkedin.com/in/alexu2/",
-      "expiration": "2026-11-10T18:00:00.000Z",
+      "expiration": "2025-11-10T18:00:00.000Z",
       "showDeadline": false
     },
     {
       "name": "All KCC options explained/quick tutorial - YouTube",
       "link": "https://youtu.be/QQ6zJcMF2Iw?si=ZTwePRm3D_TKvUAn",
-      "expiration": "2026-11-14T18:00:00.000Z"
+      "expiration": "2025-11-14T18:00:00.000Z"
     },
     {
       "name": "Auto-merge pre-split 2-page spreads tutorial - YouTube",
@@ -125,30 +125,35 @@
     {
       "name": "Kindle 5.19.2 reverted on 11th gen fixing death margins and other bugs - YouTube",
       "link": "https://youtu.be/T_iIU6KM9fs?si=rtSUp-09pA5E8lM_",
-      "expiration": "2026-11-10T18:00:00.000Z",
+      "expiration": "2025-11-10T18:00:00.000Z",
       "showDeadline": false
     },
     {
       "name": "Kindle 5.19.5 still hasn't fixed virtual panels, full refresh, %read - YouTube",
       "link": "https://youtu.be/vdqLVZJhAp4?si=O-bXf8PeZFZ6WlF3",
-      "expiration": "2026-11-10T18:00:00.000Z",
+      "expiration": "2025-11-10T18:00:00.000Z",
       "showDeadline": false
     },
     {
       "name": "Kindle 5.19.6 fixed Scribe Colorsoft MOBI blanks? - YouTube",
       "link": "https://youtu.be/vj_dk2iBiKc?si=dGyNat5P-0hsQ22D",
-      "expiration": "2026-11-10T18:00:00.000Z",
+      "expiration": "2025-11-10T18:00:00.000Z",
       "showDeadline": false
     },
     {
       "name": "Nearly all Kindles up to firmware 5.19.6 can be jailbroken for better manga viewing - YouTube",
       "link": "https://youtu.be/BeknuIfW-dE?si=p83G6NejmXM4dnjj",
-      "expiration": "2026-11-10T18:00:00.000Z",
+      "expiration": "2025-11-10T18:00:00.000Z",
       "showDeadline": false
     },
     {
       "name": "Kindle 5.19.6 Jailbreak and Koreader setup tutorial in 5 minutes - YouTube",
       "link": "https://youtu.be/94x0BQZp8L0",
+      "expiration": "2025-11-10T18:00:00.000Z",
+      "showDeadline": false
+    },
+    {
+      "name": "Kindle 5.20.1 is out, it probably patches the jailbreak",
       "expiration": "2026-11-10T18:00:00.000Z",
       "showDeadline": false
     },
