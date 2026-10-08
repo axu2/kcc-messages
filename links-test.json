@@ -41,15 +41,33 @@
   ],
   "fanaticalMangaBundles": [
     {
-      "name": "Attack on Titan Mega Manga Bundle",
+      "name": "Vampire Hunter D: The Complete Saga - referral",
       "link": "https://www.fanatical.com/en/bundle/attack-on-titan-mega-manga-bundle",
       "expiration": "2026-10-25T18:00:00.000Z",
       "showDeadline": true
     },
     {
-      "name": "Attack on Titan Mega Manga Bundle",
+      "name": "The Legendary Gold Digger Comic Bundle - referral",
       "link": "https://www.fanatical.com/en/bundle/attack-on-titan-mega-manga-bundle",
-      "expiration": "2024-09-16T18:00:00.000Z",
+      "expiration": "2026-10-25T18:00:00.000Z",
+      "showDeadline": true
+    },
+    {
+      "name": "Manga Masterpieces Collection by Ablaze - referral",
+      "link": "https://www.fanatical.com/en/bundle/attack-on-titan-mega-manga-bundle",
+      "expiration": "2026-10-25T18:00:00.000Z",
+      "showDeadline": true
+    },
+    {
+      "name": "Gateway to Seinen Manga Collection by Medibang! - referral",
+      "link": "https://www.fanatical.com/en/bundle/attack-on-titan-mega-manga-bundle",
+      "expiration": "2026-09-16T18:00:00.000Z",
+      "showDeadline": true
+    },
+    {
+      "name": "Discover Pinoy Manga Bundle - referral",
+      "link": "https://www.fanatical.com/en/bundle/attack-on-titan-mega-manga-bundle",
+      "expiration": "2026-09-16T18:00:00.000Z",
       "showDeadline": true
     }  
   ],
